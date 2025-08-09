@@ -1,0 +1,451 @@
+premise,hypothesis,gold_label,model1_pred_label,model2_pred_label,section
+Had the four peppers that fell gone bad?,There are exactly four peppers that fell.,entailment,neutral,entailment,all_n_presupposition
+The four pedestrians who should perform admired the convertibles.,There are exactly four pedestrians who should perform.,entailment,neutral,entailment,all_n_presupposition
+The seven rabbits that weren't existing might have been falling asleep.,There aren't exactly seven rabbits that weren't existing.,contradiction,contradiction,contradiction,all_n_presupposition
+"If all eight skateboards that hadn't annoyed Amelia were astounding Christina, it's okay.",There are exactly eight skateboards that hadn't annoyed Amelia.,entailment,neutral,entailment,all_n_presupposition
+The six guests that had badgered a lot of analyses to shock people haven't skated around these public parks.,There are exactly six guests that had badgered a lot of analyses to shock people.,entailment,neutral,entailment,all_n_presupposition
+The eight shirts that can't disturb Dennis disappear.,There are exactly eight shirts that can't disturb Dennis.,entailment,neutral,entailment,all_n_presupposition
+"If all four waiters that were boring Paul have telephoned, it's okay.",There aren't exactly four waiters that were boring Paul.,contradiction,contradiction,contradiction,all_n_presupposition
+The two boys that divorced are needing to bike to a mountain.,There are dozens of boys that divorced.,contradiction,contradiction,contradiction,all_n_presupposition
+The six people who had failed to litter have kissed customers.,There are exactly six boys who had failed to litter.,neutral,contradiction,neutral,all_n_presupposition
+All four waiters that were boring Paul might have telephoned.,There are exactly four pedestrians that were boring Paul.,neutral,contradiction,neutral,all_n_presupposition
+The three girls that drive to some closets don't prefer many screens to crack.,There are exactly three guys that drive to some closets.,neutral,contradiction,neutral,all_n_presupposition
+"If all ten reports that can bore some waiter are disagreeing with Naomi, it's okay.",There are exactly ten reports that can bore some waiter.,entailment,neutral,entailment,all_n_presupposition
+The five waiters that approached Paul might depart.,The five waiters that approached Paul depart.,neutral,contradiction,neutral,all_n_presupposition
+"If the two boys that divorced are needing to bike to a mountain, it's okay.",There are exactly two museums that divorced.,neutral,contradiction,neutral,all_n_presupposition
+Have all seven waiters that were scaring Suzanne won?,There are exactly seven waiters that were scaring Suzanne.,entailment,neutral,entailment,all_n_presupposition
+The two boys that divorced are needing to bike to a mountain.,There are exactly two boys that divorced.,entailment,neutral,entailment,all_n_presupposition
+All ten guys that proved to boast were divorcing.,There are exactly ten senators that proved to boast.,neutral,contradiction,neutral,all_n_presupposition
+The four pedestrians who should perform might have admired the convertibles.,There are exactly four pedestrians who should perform.,entailment,neutral,entailment,all_n_presupposition
+Did all eight associations that haven't collaborated induce Barbara's handymen to forget Helen?,There aren't exactly eight associations that haven't collaborated.,contradiction,contradiction,contradiction,all_n_presupposition
+The four peppers that fell might have gone bad.,There are exactly four apples that fell.,neutral,contradiction,neutral,all_n_presupposition
+The four pedestrians that were visiting Brenda might sigh.,The four pedestrians that were visiting Brenda sigh.,neutral,contradiction,neutral,all_n_presupposition
+Did all three libraries that haven't needed to listen to George forget the waiter?,There are exactly three libraries that haven't needed to listen to George.,entailment,neutral,entailment,all_n_presupposition
+The five waiters that approached Paul might depart.,There are exactly five doctors that approached Paul.,neutral,contradiction,neutral,all_n_presupposition
+All eight projectors that did distract Benjamin fade.,There are exactly eight candles that did distract Benjamin.,neutral,contradiction,neutral,all_n_presupposition
+"If the eight shirts that can't disturb Dennis disappear, it's okay.",There are exactly eight shirts that can't disturb Dennis.,entailment,neutral,entailment,all_n_presupposition
+All nine teenagers that haven't spurred many nieces of Liam to explain everything haven't observed Jacqueline.,All nine teenagers that haven't spurred many nieces of Liam to explain everything have observed Jacqueline.,contradiction,contradiction,contradiction,all_n_presupposition
+"If the five dishes that astounded Kenneth chip, it's okay.",There are more than five dishes that astounded Kenneth.,contradiction,contradiction,contradiction,all_n_presupposition
+"If the three girls that drive to some closets prefer many screens to crack, it's okay.",There are exactly three girls that drive to some closets.,entailment,neutral,entailment,all_n_presupposition
+All eight projectors that did distract Benjamin fade.,There aren't exactly eight projectors that did distract Benjamin.,contradiction,contradiction,contradiction,all_n_presupposition
+"If the four pedestrians who should perform admired the convertibles, it's okay.",There are exactly four companies who should perform.,neutral,contradiction,neutral,all_n_presupposition
+Do all seven senators that were fleeing from Daniel clean the scarves?,There are exactly seven customers that were fleeing from Daniel.,neutral,contradiction,neutral,all_n_presupposition
+All ten ladies that discover those doors might judge Nina to mess up a rug.,There are exactly ten teenagers that discover those doors.,neutral,contradiction,neutral,all_n_presupposition
+Are the two mouths that didn't appear irritating Kathleen?,The two mouths that didn't appear are irritating Kathleen.,neutral,neutral,neutral,all_n_presupposition
+All seven waiters that were scaring Suzanne have won.,There are exactly seven waiters that were scaring Suzanne.,entailment,neutral,entailment,all_n_presupposition
+"If the four pedestrians that were visiting Brenda sigh, it's okay.",The four pedestrians that were visiting Brenda sigh.,neutral,entailment,neutral,all_n_presupposition
+"If the four peppers that fell had gone bad, it's okay.",There are exactly four peppers that fell.,entailment,neutral,neutral,all_n_presupposition
+"If all eight associations that haven't collaborated induced Barbara's handymen to forget Helen, it's okay.",There are exactly eight women that haven't collaborated.,neutral,contradiction,neutral,all_n_presupposition
+"If the four libraries that donate hate Marcus, it's okay.",There are exactly four libraries that donate.,entailment,neutral,entailment,all_n_presupposition
+All four waiters that were boring Paul haven't telephoned.,There are exactly four waiters that were boring Paul.,entailment,neutral,entailment,all_n_presupposition
+"If all eight associations that haven't collaborated induced Barbara's handymen to forget Helen, it's okay.",All eight associations that haven't collaborated induced Barbara's handymen to forget Helen.,neutral,entailment,neutral,all_n_presupposition
+The five dishes that astounded Kenneth chip.,There are exactly five dishes that astounded Kenneth.,entailment,neutral,entailment,all_n_presupposition
+The five waiters that approached Paul depart.,There are exactly six waiters that approached Paul.,contradiction,contradiction,contradiction,all_n_presupposition
+The two boys that divorced might be needing to bike to a mountain.,There are dozens of boys that divorced.,contradiction,contradiction,contradiction,all_n_presupposition
+"If all ten ladies that discover those doors judge Nina to mess up a rug, it's okay.",There are exactly ten teenagers that discover those doors.,neutral,contradiction,neutral,all_n_presupposition
+The four peppers that fell hadn't gone bad.,There are more than four peppers that fell.,contradiction,contradiction,contradiction,all_n_presupposition
+All four ladies that didn't bother the Impressionists didn't mutter.,There are exactly four ladies that didn't bother the Impressionists.,entailment,entailment,entailment,all_n_presupposition
+The four pedestrians who should perform might have admired the convertibles.,The four pedestrians who should perform admired the convertibles.,neutral,neutral,neutral,all_n_presupposition
+"If all nine doctors who reunite wash, it's okay.",There are exactly nine senators who reunite.,neutral,contradiction,neutral,all_n_presupposition
+The two boys that divorced are needing to bike to a mountain.,There are exactly two museums that divorced.,neutral,contradiction,neutral,all_n_presupposition
+"If the nine adults who ascertained Carmen to dislike a lot of high schools hunt, it's okay.",There are exactly nine adults who ascertained Carmen to dislike a lot of high schools.,entailment,neutral,entailment,all_n_presupposition
+Do both adults that were appearing date?,There are exactly two adults that were appearing,entailment,neutral,entailment,both_presupposition
+Both actors who noticed Tonya had preferred Becca to come here.,There are exactly two actors who noticed Tonya,entailment,neutral,entailment,both_presupposition
+Both cashiers that exited the school might listen to Brenda.,There are exactly three cashiers that exited the school.,contradiction,contradiction,contradiction,both_presupposition
+"If both waiters that can't move paint, it's okay.",There are exactly two waiters that can't move,entailment,neutral,entailment,both_presupposition
+Both actors that climbed up many ladders hadn't argued.,There are exactly two actors that climbed up many ladders,entailment,neutral,entailment,both_presupposition
+Both customers who imagined Samuel hid all hills do litter.,There are exactly two customers who imagined Samuel hid all hills,entailment,neutral,entailment,both_presupposition
+"If both patients who weren't continuing to listen to Sabrina approached Samantha, it's okay.",There aren't exactly two patients who weren't continuing to listen to Sabrina,contradiction,contradiction,contradiction,both_presupposition
+Both drivers that shout do leave Theresa.,There are more than two drivers that shout.,contradiction,contradiction,contradiction,both_presupposition
+Both actresses that argue about James complained about Stephen.,There are exactly two teenagers that argue about James,neutral,contradiction,neutral,both_presupposition
+Both patients who weren't continuing to listen to Sabrina might have approached Samantha.,There are exactly two pedestrians who weren't continuing to listen to Sabrina,neutral,neutral,neutral,both_presupposition
+Both actresses that can't forfeit weren't pressing the granddaughter of Randolf to come here.,There are exactly two boys that can't forfeit,neutral,contradiction,neutral,both_presupposition
+"If both guys who came here departed, it's okay.",There are exactly two guys who came here,entailment,neutral,entailment,both_presupposition
+Both waiters that have alarmed the cashier might have urged Lucille's teacher to question all governments.,Both waiters that have alarmed the cashier urged Lucille's teacher to question all governments.,neutral,neutral,neutral,both_presupposition
+"If both drivers that shout do leave Theresa, it's okay.",There are exactly two students that shout,neutral,contradiction,neutral,both_presupposition
+Had both waiters that might conceal a cashier trained?,There are exactly two waiters that might conceal a cashier,entailment,neutral,entailment,both_presupposition
+Both drivers that shout do leave Theresa.,There are exactly two drivers that shout,entailment,neutral,entailment,both_presupposition
+Both gloves that aren't loosening do fray.,There are exactly two socks that aren't loosening,neutral,contradiction,neutral,both_presupposition
+Both actors who noticed Tonya might have preferred Becca to come here.,There are exactly two actors who noticed Tonya,entailment,neutral,entailment,both_presupposition
+Did both adults who manage to get a job buy this hill.,There are exactly three adults who manage to get a job.,contradiction,contradiction,contradiction,both_presupposition
+Both adults that were appearing might date.,There are exactly two girls that were appearing,neutral,contradiction,neutral,both_presupposition
+Both boys that argue might be muttering.,Both boys that argue are muttering.,neutral,neutral,neutral,both_presupposition
+Did both senators who break a bicycle scratch.,There are exactly two senators who break a bicycle,entailment,neutral,entailment,both_presupposition
+Both waiters that have alarmed the cashier might have urged Lucille's teacher to question all governments.,There are exactly two schools that have alarmed the cashier,neutral,contradiction,neutral,both_presupposition
+Both customers who were stunning Rebecca departed.,There are exactly two adults who were stunning Rebecca,neutral,neutral,neutral,both_presupposition
+"If both customers who imagined Samuel hid all hills do litter, it's okay.",There are exactly two customers who imagined Samuel hid all hills,entailment,neutral,entailment,both_presupposition
+Both skateboards that shouldn't shatter aren't rolling.,Both skateboards that shouldn't shatter are rolling.,contradiction,contradiction,contradiction,both_presupposition
+"If both sketches that annoy Alexander were scaring Amanda, it's okay.",There aren't exactly two sketches that annoy Alexander,contradiction,contradiction,contradiction,both_presupposition
+"If both actresses that can't forfeit were pressing the granddaughter of Randolf to come here, it's okay.",There are exactly two actresses that can't forfeit,entailment,neutral,entailment,both_presupposition
+Both customers who were stunning Rebecca departed.,There are exactly three customers who were stunning Rebecca.,contradiction,contradiction,contradiction,both_presupposition
+"If both actors who noticed Tonya had preferred Becca to come here, it's okay.",There are exactly two teachers who noticed Tonya,neutral,contradiction,neutral,both_presupposition
+Had both teachers that vanished returned to the teacher?,There are exactly two senators that vanished,neutral,contradiction,neutral,both_presupposition
+Both guests that cook might have been going fishing.,There are exactly two people that cook,neutral,neutral,neutral,both_presupposition
+Have both women who hid away want to work hard?,Both women who hid away have want to work hard.,neutral,entailment,neutral,both_presupposition
+Both waiters that might conceal a cashier had trained.,There are exactly two waiters that might conceal a cashier,entailment,neutral,entailment,both_presupposition
+"If both boys that argue are muttering, it's okay.",Both boys that argue are muttering.,neutral,entailment,neutral,both_presupposition
+"If both adults that were appearing do date, it's okay.",There are exactly two adults that were appearing,entailment,neutral,entailment,both_presupposition
+"If both adults who manage to get a job bought this hill, it's okay.",There are exactly two banks who manage to get a job,neutral,contradiction,neutral,both_presupposition
+"If both closets that scare Amanda are flinging open, it's okay.",There are exactly two closets that scare Amanda,entailment,neutral,entailment,both_presupposition
+Both patients who weren't continuing to listen to Sabrina didn't approach Samantha.,There are exactly two patients who weren't continuing to listen to Sabrina,entailment,neutral,entailment,both_presupposition
+"If both adults who manage to get a job bought this hill, it's okay.",Both adults who manage to get a job bought this hill.,neutral,entailment,neutral,both_presupposition
+Both sketches that annoy Alexander were scaring Amanda.,There are exactly two sketches that annoy Alexander,entailment,neutral,entailment,both_presupposition
+Both waiters that have alarmed the cashier urged Lucille's teacher to question all governments.,There aren't exactly two waiters that have alarmed the cashier,contradiction,contradiction,contradiction,both_presupposition
+Both drivers that shout might leave Theresa.,There are more than two drivers that shout.,contradiction,contradiction,contradiction,both_presupposition
+"If both guests that cook were going fishing, it's okay.",There are exactly two people that cook,neutral,contradiction,entailment,both_presupposition
+Both adults that were appearing don't date.,There are dozens of adults that were appearing.,contradiction,contradiction,contradiction,both_presupposition
+Both mouths that worry many hospitals don't fling open.,There are exactly two mouths that worry many hospitals,entailment,neutral,entailment,both_presupposition
+Both actors who noticed Tonya might have preferred Becca to come here.,Both actors who noticed Tonya had preferred Becca to come here.,neutral,entailment,neutral,both_presupposition
+"If both governments that weren't failing to benefit are persuading Beth to sell some doors, it's okay.",There are exactly two pedestrians that weren't failing to benefit,neutral,contradiction,neutral,both_presupposition
+Both drivers that shout do leave Theresa.,There are exactly two students that shout,neutral,contradiction,neutral,both_presupposition
+"If both hospitals that have forfeited respect Edward, it's okay.",There are exactly two hospitals that have forfeited,entailment,neutral,entailment,both_presupposition
+Does Travis hire Alexander?,Alexander is unemployed.,entailment,contradiction,neutral,change_of_state
+Those ladies had come here.,Those ladies were not here.,entailment,contradiction,contradiction,change_of_state
+Noah might have hired Tonya.,Tonya wasn't unemployed.,contradiction,entailment,neutral,change_of_state
+"If George does break this window, it's okay.",This window is whole.,entailment,contradiction,neutral,change_of_state
+Dawn didn't escape.,Dawn used to be captive.,entailment,entailment,neutral,change_of_state
+Scott got a job.,Scott used to be unemployed.,entailment,neutral,entailment,change_of_state
+"If Benjamin was fixing the plate, it's okay.",The plate didn't used to be broken.,contradiction,neutral,contradiction,change_of_state
+Bruce has gotten a job.,Bruce wasn't unemployed.,contradiction,entailment,neutral,change_of_state
+Charles hid.,Jeffrey was exposed.,neutral,contradiction,neutral,change_of_state
+Benjamin might have been fixing the plate.,Jerry used to be broken.,neutral,contradiction,neutral,change_of_state
+The cucumber hadn't ripened.,The eggplant used to be unripe.,neutral,contradiction,neutral,change_of_state
+"If Maria was healing that guy, it's okay.",That guy used to be ill.,entailment,neutral,entailment,change_of_state
+Michelle might wake up.,Michelle does wake up.,neutral,contradiction,neutral,change_of_state
+"If Bruce has gotten a job, it's okay.",Kristin was unemployed.,neutral,contradiction,neutral,change_of_state
+Was Cynthia concealing Daniel?,Daniel was exposed.,entailment,contradiction,neutral,change_of_state
+Bruce has gotten a job.,Bruce was unemployed.,entailment,contradiction,entailment,change_of_state
+The guest had found John.,Peter used to be in an unknown location.,neutral,contradiction,neutral,change_of_state
+Those ladies might have come here.,Those ladies were not here.,entailment,contradiction,neutral,change_of_state
+Had Edward fixed the wheelbarrows?,The wheelbarrows didn't used to be broken.,contradiction,neutral,neutral,change_of_state
+Travis might hire Alexander.,Kirsten is unemployed.,neutral,contradiction,neutral,change_of_state
+Brett might ascend this hill.,Brett does ascend this hill.,neutral,contradiction,neutral,change_of_state
+Was Alan climbing up ladders?,Alan used to be at the bottom of ladders.,entailment,contradiction,neutral,change_of_state
+Michelle might wake up.,Carla is asleep.,neutral,contradiction,neutral,change_of_state
+Paul broke the couches.,Samantha's tutors were in one piece.,neutral,contradiction,neutral,change_of_state
+"If Scott got a job, it's okay.",Scott used to be unemployed.,entailment,neutral,neutral,change_of_state
+Those gates didn't open.,Those gates did open.,contradiction,contradiction,contradiction,change_of_state
+"If boxes are opening, it's okay.",Boxes didn't used to be closed.,contradiction,neutral,neutral,change_of_state
+"If the cucumber had ripened, it's okay.",The cucumber used to be unripe.,entailment,entailment,neutral,change_of_state
+Paul broke the couches.,The couches didn't used to be in one piece.,contradiction,neutral,contradiction,change_of_state
+"If those ladies had come here, it's okay.",Those waitresses were not here.,neutral,neutral,neutral,change_of_state
+Did the eye open?,That door was closed.,neutral,contradiction,neutral,change_of_state
+The tomato might rot.,This cilantro is fresh.,neutral,contradiction,neutral,change_of_state
+Had Amanda left?,Amanda had left.,neutral,neutral,neutral,change_of_state
+Cynthia was concealing Daniel.,Daniel was exposed.,entailment,contradiction,contradiction,change_of_state
+"If Brett does ascend this hill, it's okay.",Brett does ascend this hill.,neutral,neutral,neutral,change_of_state
+"If Travis does hire Alexander, it's okay.",Alexander is unemployed.,entailment,contradiction,neutral,change_of_state
+"If Edward had fixed the wheelbarrows, it's okay.",These boys were broken.,neutral,contradiction,neutral,change_of_state
+"If Rhonda was getting a job, it's okay.",Rhonda used to be unemployed.,entailment,neutral,neutral,change_of_state
+Benjamin wasn't fixing the plate.,The plate used to be broken.,entailment,neutral,neutral,change_of_state
+"If Edward had fixed the wheelbarrows, it's okay.",Edward had fixed the wheelbarrows.,neutral,contradiction,neutral,change_of_state
+Boxes are opening.,Boxes were closed.,entailment,entailment,neutral,change_of_state
+Michelle does wake up.,Michelle isn't asleep.,contradiction,entailment,entailment,change_of_state
+Bruce might have gotten a job.,Bruce wasn't unemployed.,contradiction,entailment,neutral,change_of_state
+"If the tomato does rot, it's okay.",This cilantro is fresh.,neutral,contradiction,neutral,change_of_state
+Travis doesn't hire Alexander.,Alexander isn't unemployed.,contradiction,contradiction,neutral,change_of_state
+Omar isn't hiding Sarah.,Sarah was out in the open.,entailment,entailment,neutral,change_of_state
+Those ladies might have come here.,Those ladies had come here.,neutral,neutral,neutral,change_of_state
+"If Christina does heal Stephen, it's okay.",Bethany is sick.,neutral,contradiction,neutral,change_of_state
+Bruce has gotten a job.,Kristin was unemployed.,neutral,contradiction,neutral,change_of_state
+"If this waiter came here, it's okay.",This waiter was not here.,entailment,contradiction,neutral,change_of_state
+Is it that person that finds out who doesn't talk about Carrie?,Someone finds out who doesn't talk about Carrie,entailment,neutral,entailment,cleft_existence
+It is Brenda that cared for Erin.,Someone cared for Erin,entailment,entailment,entailment,cleft_existence
+It might be Amanda who imagined Helen managed to watch Alexander.,No one imagined Helen managed to watch Alexander,contradiction,contradiction,contradiction,cleft_existence
+"If it is Christina who did hate Tammy, it's okay",Someone did hate Tammy,entailment,neutral,neutral,cleft_existence
+It isn't Travis that had referenced Nina.,Someone had referenced Nina,entailment,entailment,neutral,cleft_existence
+It is Barbara who commands Sandra's nieces to walk through some closet.,Someone commands Sandra's nieces to walk through some closet,entailment,entailment,entailment,cleft_existence
+"If it is Donald who discovered the plate, it's okay",No one discovered the plate,contradiction,contradiction,neutral,cleft_existence
+It is Deanna who did buy these blouses.,No one did buy these blouses,contradiction,contradiction,contradiction,cleft_existence
+It is Sonia that messes up grocery stores.,Someone messes up that school,neutral,contradiction,neutral,cleft_existence
+It might be Donald who discovered the plate.,Someone discovered Monica,neutral,contradiction,neutral,cleft_existence
+It isn't Theresa that healed Monica.,Someone healed Stephen,neutral,contradiction,neutral,cleft_existence
+"If it is Helen that talked about Cheryl, it's okay",Someone talked about Cheryl,entailment,entailment,neutral,cleft_existence
+It might be Dan who does look to escape from Margaret.,It is Dan who does look to escape from Margaret.,neutral,neutral,neutral,cleft_existence
+"If it is Deanna who did buy these blouses, it's okay",Someone does buy this lake,neutral,contradiction,neutral,cleft_existence
+Is it this lady that has hidden Sherry?,Someone has hidden Sherry,entailment,neutral,neutral,cleft_existence
+It is Deanna who did buy these blouses.,Someone did buy these blouses,entailment,entailment,entailment,cleft_existence
+It is Douglas that did work with Tanya.,Someone did work with Ronald,neutral,contradiction,neutral,cleft_existence
+It might be Brenda that cared for Erin.,Someone cared for Erin,entailment,entailment,neutral,cleft_existence
+Is it Winston Churchill that had realized who wasn't continuing to train?,No one had realized who wasn't continuing to train,contradiction,contradiction,contradiction,cleft_existence
+It might be that person that finds out who doesn't talk about Carrie.,Someone finds out who was changing,neutral,neutral,neutral,cleft_existence
+It might be that driver who does forget about who weren't touring many rivers.,It is that driver who does forget about who weren't touring many rivers.,neutral,neutral,neutral,cleft_existence
+Is it Gerald who is arguing about Sandra?,Someone is arguing about Sandra,entailment,entailment,neutral,cleft_existence
+It might be Dan who does look to escape from Margaret.,Someone did look to scare some boy,neutral,contradiction,neutral,cleft_existence
+It is Suzanne who has dropped by the rivers.,Someone had dropped by these glaciers,neutral,contradiction,neutral,cleft_existence
+"If it is Barbara who commands Sandra's nieces to walk through some closet, it's okay",Someone commands Sandra's nieces to walk through some closet,entailment,entailment,neutral,cleft_existence
+It isn't that movie that disagreed with Tamara.,It is that movie that disagreed with Tamara.,contradiction,contradiction,contradiction,cleft_existence
+"If it is Jeffrey who did help Ruth, it's okay",No one did help Ruth,contradiction,contradiction,contradiction,cleft_existence
+"If it is Theresa that healed Monica, it's okay",Someone healed Monica,entailment,entailment,neutral,cleft_existence
+It is Suzanne who has dropped by the rivers.,No one has dropped by the rivers,contradiction,contradiction,contradiction,cleft_existence
+"If it is Brenda that cared for Erin, it's okay",Someone cared for Sally,neutral,contradiction,neutral,cleft_existence
+Is it Monica that did seem to slump over?,Someone did seem to embrace,neutral,contradiction,neutral,cleft_existence
+It might be Frank who discovered Elizabeth to shrug.,Someone discovered the Impressionists to work hard,neutral,contradiction,neutral,cleft_existence
+Is it Renee who loves Sara?,It is Renee who loves Sara.,neutral,neutral,neutral,cleft_existence
+It is this lady that has hidden Sherry.,Someone has hidden Sherry,entailment,entailment,entailment,cleft_existence
+"If it is that driver who does forget about who weren't touring many rivers, it's okay",It is that driver who does forget about who weren't touring many rivers.,neutral,entailment,neutral,cleft_existence
+"If it is that person that finds out who doesn't talk about Carrie, it's okay",Someone finds out who doesn't talk about Carrie,entailment,entailment,neutral,cleft_existence
+"If it is Winston Churchill that had realized who wasn't continuing to train, it's okay",Someone had realized what shrinks,neutral,contradiction,neutral,cleft_existence
+"If it is Carl who does scan newspaper articles, it's okay",Someone does scan newspaper articles,entailment,neutral,neutral,cleft_existence
+It isn't Donald who discovered the plate.,Someone discovered the plate,entailment,entailment,neutral,cleft_existence
+"If it is Winston Churchill that had realized who wasn't continuing to train, it's okay",It is Winston Churchill that had realized who wasn't continuing to train.,neutral,entailment,neutral,cleft_existence
+It is Jeffrey who did help Ruth.,Someone did help Ruth,entailment,entailment,entailment,cleft_existence
+It is Dan who does look to escape from Margaret.,No one does look to escape from Margaret,contradiction,contradiction,contradiction,cleft_existence
+It might be Deanna who did buy these blouses.,No one did buy these blouses,contradiction,contradiction,contradiction,cleft_existence
+"If it is Frank who discovered Elizabeth to shrug, it's okay",Someone discovered the Impressionists to work hard,neutral,contradiction,neutral,cleft_existence
+It isn't that person that finds out who doesn't talk about Carrie.,No one finds out who doesn't talk about Carrie,contradiction,contradiction,contradiction,cleft_existence
+It isn't Vincent who works with the waiter.,Someone works with the waiter,entailment,entailment,neutral,cleft_existence
+It might be Brenda that cared for Erin.,It is Brenda that cared for Erin.,neutral,neutral,neutral,cleft_existence
+"If it is Amanda that was hurting Teresa, it's okay",Someone is hurting women,neutral,neutral,neutral,cleft_existence
+It is Deanna who did buy these blouses.,Someone does buy this lake,neutral,contradiction,neutral,cleft_existence
+"If it is Natalie that is needing Meredith to investigate Katherine, it's okay",Someone is needing Meredith to investigate Katherine,entailment,entailment,neutral,cleft_existence
+Is it Daniel that had required Kendra's grandmother to play?,Exactly one person had required Kendra's grandmother to play.,entailment,contradiction,neutral,cleft_uniqueness
+It is Julie that talks to Theodore.,Exactly one person talks to Theodore.,entailment,neutral,neutral,cleft_uniqueness
+It might be a girl who is breaking this bike.,More than one person is breaking this bike.,contradiction,neutral,neutral,cleft_uniqueness
+"If it is Alice who doubts Donna described Stacey, it's okay",Exactly one person doubts Donna described Stacey.,entailment,contradiction,neutral,cleft_uniqueness
+It isn't Nancy that had driven to the college campuses.,Exactly one person had driven to the college campuses.,entailment,contradiction,neutral,cleft_uniqueness
+It is Kayla that hired Anne.,Exactly one person hired Anne.,entailment,neutral,neutral,cleft_uniqueness
+"If it is Irene that kissed David, it's okay",More than one person kissed David.,contradiction,neutral,neutral,cleft_uniqueness
+It is Denise who sounded like Helen.,More than one person sounded like Helen.,contradiction,neutral,neutral,cleft_uniqueness
+It is Barbara that had induced this waiter to reveal those forks.,Exactly one person had induced Candice to reveal some gloves.,neutral,contradiction,neutral,cleft_uniqueness
+It might be Irene that kissed David.,Exactly one person kissed Cindy.,neutral,contradiction,neutral,cleft_uniqueness
+It isn't Kayla who explored those hills.,Exactly one person explored these restaurants.,neutral,contradiction,neutral,cleft_uniqueness
+"If it is Laura who sounded like Raymond, it's okay",Exactly one person sounded like Raymond.,entailment,contradiction,neutral,cleft_uniqueness
+It might be Carol that does persuade these associations to argue.,It is Carol that does persuade these associations to argue.,neutral,neutral,neutral,cleft_uniqueness
+"If it is Denise who sounded like Helen, it's okay",Exactly one person sounded like that museum.,neutral,contradiction,neutral,cleft_uniqueness
+Is it Elaine who was appreciating the malls?,Exactly one person was appreciating the malls.,entailment,contradiction,neutral,cleft_uniqueness
+It is Denise who sounded like Helen.,Exactly one person sounded like Helen.,entailment,neutral,neutral,cleft_uniqueness
+It is Sherry that does dislike Allison.,Exactly one person did dislike Mitchell.,neutral,contradiction,neutral,cleft_uniqueness
+It might be Julie that talks to Theodore.,Exactly one person talks to Theodore.,entailment,contradiction,neutral,cleft_uniqueness
+Is it Victoria that does listen to Brett?,More than one person does listen to Brett.,contradiction,neutral,neutral,cleft_uniqueness
+It might be Daniel that had required Kendra's grandmother to play.,Exactly one person had required Mark's contractors to disagree.,neutral,contradiction,neutral,cleft_uniqueness
+It might be Omar who does drive to the movie theater.,It is Omar who does drive to the movie theater.,neutral,neutral,neutral,cleft_uniqueness
+Is it James who is climbing up the stairs?,Exactly one person is climbing up the stairs.,entailment,contradiction,neutral,cleft_uniqueness
+It might be Carol that does persuade these associations to argue.,Exactly one person did persuade Candice's guests to donate.,neutral,contradiction,neutral,cleft_uniqueness
+It is that actress who has described Holly.,Exactly one person had described Randolf.,neutral,contradiction,neutral,cleft_uniqueness
+"If it is Kayla that hired Anne, it's okay",Exactly one person hired Anne.,entailment,contradiction,neutral,cleft_uniqueness
+It isn't Charles that has ordered Tammy to know David.,It is Charles that has ordered Tammy to know David.,contradiction,contradiction,contradiction,cleft_uniqueness
+"If it is Joseph that proved to freeze, it's okay",More than one person proved to freeze.,contradiction,neutral,neutral,cleft_uniqueness
+"If it is Kayla who explored those hills, it's okay",Exactly one person explored those hills.,entailment,contradiction,neutral,cleft_uniqueness
+It is that actress who has described Holly.,More than one person has described Holly.,contradiction,neutral,neutral,cleft_uniqueness
+"If it is Julie that talks to Theodore, it's okay",Exactly one person talks to Bradley.,neutral,contradiction,neutral,cleft_uniqueness
+Is it that legislature that is irritating April?,Exactly one thing is irritating Mark.,neutral,contradiction,neutral,cleft_uniqueness
+It might be the grocery store that had bored Jacqueline.,Exactly one thing has bored Eric.,neutral,contradiction,neutral,cleft_uniqueness
+Is it Cynthia who had respected Andrea?,It is Cynthia who had respected Andrea.,neutral,neutral,neutral,cleft_uniqueness
+It is Elaine who was appreciating the malls.,Exactly one person was appreciating the malls.,entailment,entailment,neutral,cleft_uniqueness
+"If it is Omar who does drive to the movie theater, it's okay",It is Omar who does drive to the movie theater.,neutral,entailment,neutral,cleft_uniqueness
+"If it is Daniel that had required Kendra's grandmother to play, it's okay",Exactly one person had required Kendra's grandmother to play.,entailment,neutral,neutral,cleft_uniqueness
+"If it is Victoria that does listen to Brett, it's okay",Exactly one person did listen to Samuel.,neutral,contradiction,neutral,cleft_uniqueness
+"If it is this adult that ran around that mountain, it's okay",Exactly one person ran around that mountain.,entailment,neutral,neutral,cleft_uniqueness
+It isn't Irene that kissed David.,Exactly one person kissed David.,entailment,contradiction,neutral,cleft_uniqueness
+"If it is Victoria that does listen to Brett, it's okay",It is Victoria that does listen to Brett.,neutral,entailment,neutral,cleft_uniqueness
+It is Joseph that proved to freeze.,Exactly one person proved to freeze.,entailment,neutral,neutral,cleft_uniqueness
+It is Carol that does persuade these associations to argue.,More than one person does persuade these associations to argue.,contradiction,contradiction,neutral,cleft_uniqueness
+It might be Denise who sounded like Helen.,More than one person sounded like Helen.,contradiction,neutral,neutral,cleft_uniqueness
+"If it is the grocery store that had bored Jacqueline, it's okay",Exactly one thing has bored Eric.,neutral,contradiction,neutral,cleft_uniqueness
+It isn't Daniel that had required Kendra's grandmother to play.,More than one person had required Kendra's grandmother to play.,contradiction,entailment,neutral,cleft_uniqueness
+It isn't Lori that had loved Jason.,Exactly one person had loved Jason.,entailment,contradiction,neutral,cleft_uniqueness
+It might be Julie that talks to Theodore.,It is Julie that talks to Theodore.,neutral,neutral,neutral,cleft_uniqueness
+"If it is Marla that is researching the Great Lakes, it's okay",Exactly one person is researching the Borgias.,neutral,contradiction,neutral,cleft_uniqueness
+It is Denise who sounded like Helen.,Exactly one person sounded like that museum.,neutral,contradiction,neutral,cleft_uniqueness
+"If it is Carla that did annoy Jodi, it's okay",Exactly one person did annoy Jodi.,entailment,contradiction,neutral,cleft_uniqueness
+Does Stacey only pressure Rose to conceal Stephanie?,Stacey pressures Rose to conceal Stephanie.,entailment,entailment,entailment,only_presupposition
+The pedestrian only does urge Carl to irritate Sabrina.,The pedestrian does urge Carl to irritate Sabrina.,entailment,entailment,entailment,only_presupposition
+This actress might only stand up.,This actress doesn't stand up.,contradiction,contradiction,neutral,only_presupposition
+"If Jesus had only whispered, it's okay.",Jesus had whispered.,entailment,contradiction,neutral,only_presupposition
+Curtis doesn't only turn out to darken.,Curtis turns out to darken.,entailment,entailment,entailment,only_presupposition
+Brad only worried the actors.,Brad worried the actors.,entailment,entailment,entailment,only_presupposition
+"If Kristen only discovered who was discovering all drivers to lie, it's okay.",Kristen didn't discover who was discovering all drivers to lie.,contradiction,entailment,neutral,only_presupposition
+Emily only does climb down these steps.,Emily doesn't climb down these steps.,contradiction,contradiction,contradiction,only_presupposition
+April only judged Liam to argue.,Todd's handymen judged Liam to argue.,neutral,contradiction,contradiction,only_presupposition
+Kristen might have only discovered who was discovering all drivers to lie.,Matt discovered who was discovering all drivers to lie.,neutral,contradiction,neutral,only_presupposition
+Libraries don't only compel many drivers' ex-husband to get fired.,This student's sons do compel many drivers' ex-husband to get fired.,neutral,contradiction,neutral,only_presupposition
+"If the book only impressed Sharon, it's okay.",The book impressed Sharon.,entailment,entailment,neutral,only_presupposition
+Laura might only explain the girls haven't hidden.,Laura only explains the girls haven't hidden.,neutral,entailment,neutral,only_presupposition
+"If Emily only does climb down these steps, it's okay.",Catherine's brother does climb down these steps.,neutral,contradiction,neutral,only_presupposition
+Does that committee only testify?,That committee does testify.,entailment,neutral,neutral,only_presupposition
+Emily only does climb down these steps.,Emily does climb down these steps.,entailment,entailment,entailment,only_presupposition
+Colleen was only biking to that library.,Tanya was biking to that library.,neutral,contradiction,neutral,only_presupposition
+The pedestrian might only urge Carl to irritate Sabrina.,The pedestrian does urge Carl to irritate Sabrina.,entailment,contradiction,neutral,only_presupposition
+Did Christopher only paint?,Christopher didn't paint.,contradiction,contradiction,contradiction,only_presupposition
+Stacey might only pressure Rose to conceal Stephanie.,Leslie pressures Rose to conceal Stephanie.,neutral,contradiction,neutral,only_presupposition
+This drawing might be only looking like the cups.,This drawing is only looking like the cups.,neutral,neutral,neutral,only_presupposition
+Was Brad only spinning around?,Brad was spinning around.,entailment,entailment,neutral,only_presupposition
+Laura might only explain the girls haven't hidden.,Carmen explains the girls haven't hidden.,neutral,contradiction,neutral,only_presupposition
+These trucks only chip.,These carriages chip.,neutral,entailment,neutral,only_presupposition
+"If Brad only worried the actors, it's okay.",Brad worried the actors.,entailment,entailment,neutral,only_presupposition
+Melanie didn't only convince James's oncologist to speak up.,Melanie only did convince James's oncologist to speak up.,contradiction,contradiction,contradiction,only_presupposition
+"If Sheila only cleans this cup, it's okay.",Sheila doesn't clean this cup.,contradiction,contradiction,neutral,only_presupposition
+"If libraries only do compel many drivers' ex-husband to get fired, it's okay.",Libraries do compel many drivers' ex-husband to get fired.,entailment,neutral,neutral,only_presupposition
+These trucks only chip.,These trucks don't chip.,contradiction,contradiction,contradiction,only_presupposition
+"If the pedestrian only does urge Carl to irritate Sabrina, it's okay.",Kayla does urge Carl to irritate Sabrina.,neutral,contradiction,neutral,only_presupposition
+Do these customers only spin around?,The brothers of those dancers spin around.,neutral,contradiction,neutral,only_presupposition
+Rodney might have only messed up the grocery store.,William's oncologists had messed up the grocery store.,neutral,contradiction,neutral,only_presupposition
+Did the blouses only scar Vincent?,The blouses only scared Vincent.,neutral,neutral,neutral,only_presupposition
+That committee only does testify.,That committee does testify.,entailment,entailment,entailment,only_presupposition
+"If this drawing is only looking like the cups, it's okay.",This drawing is only looking like the cups.,neutral,entailment,neutral,only_presupposition
+"If Stacey only pressures Rose to conceal Stephanie, it's okay.",Stacey pressures Rose to conceal Stephanie.,entailment,entailment,neutral,only_presupposition
+"If Christopher only painted, it's okay.",Eric painted.,neutral,contradiction,neutral,only_presupposition
+"If these cucumbers only burn, it's okay.",These cucumbers burn.,entailment,entailment,neutral,only_presupposition
+Kristen didn't only discover who was discovering all drivers to lie.,Kristen discovered who was discovering all drivers to lie.,entailment,entailment,entailment,only_presupposition
+"If Christopher only painted, it's okay.",Christopher only painted.,neutral,entailment,neutral,only_presupposition
+Sheila only cleans this cup.,Sheila cleans this cup.,entailment,entailment,entailment,only_presupposition
+Laura only explains the girls haven't hidden.,Laura doesn't explain the girls haven't hidden.,contradiction,contradiction,contradiction,only_presupposition
+Emily might only climb down these steps.,Emily doesn't climb down these steps.,contradiction,contradiction,contradiction,only_presupposition
+"If Rodney had only messed up the grocery store, it's okay.",William's oncologists had messed up the grocery store.,neutral,contradiction,contradiction,only_presupposition
+Stacey doesn't only pressure Rose to conceal Stephanie.,Stacey doesn't pressure Rose to conceal Stephanie.,contradiction,contradiction,contradiction,only_presupposition
+Randolf isn't only astounding Carol.,Randolf is astounding Carol.,entailment,entailment,entailment,only_presupposition
+The pedestrian might only urge Carl to irritate Sabrina.,The pedestrian only does urge Carl to irritate Sabrina.,neutral,contradiction,neutral,only_presupposition
+"If those skateboards only do crash, it's okay.",Bikes do crash.,neutral,contradiction,neutral,only_presupposition
+Emily only does climb down these steps.,Catherine's brother does climb down these steps.,neutral,contradiction,neutral,only_presupposition
+"If Donna only did cure Regina, it's okay.",Donna did cure Regina.,entailment,contradiction,neutral,only_presupposition
+Did Naomi's mountain shock Sharon?,Naomi has a mountain.,entailment,entailment,entailment,possessed_definites_existence
+Lisa's skirt does exist.,Lisa has a skirt.,entailment,entailment,neutral,possessed_definites_existence
+Renee's gates might embarrass George.,Renee doesn't have gates.,contradiction,contradiction,contradiction,possessed_definites_existence
+"If Jane's supervisor does clean this skirt, it's okay.",Jane has a supervisor.,entailment,entailment,entailment,possessed_definites_existence
+Lissa's river doesn't fall.,Lissa has a river.,entailment,entailment,entailment,possessed_definites_existence
+The Impressionists' rugs did look like these prints.,The Impressionists have rugs.,entailment,entailment,entailment,possessed_definites_existence
+"If Caroline's rabbits did disgust Sharon, it's okay.",Caroline doesn't have rabbits.,contradiction,contradiction,contradiction,possessed_definites_existence
+Rose's bird did alarm Peter.,Rose doesn't have a bird.,contradiction,contradiction,contradiction,possessed_definites_existence
+Theresa's girlfriend does reference Elizabeth.,Donald has a girlfriend.,neutral,contradiction,neutral,possessed_definites_existence
+Caroline's rabbits might have disgusted Sharon.,Lucille has rabbits.,neutral,contradiction,neutral,possessed_definites_existence
+Scott's universities didn't retaliate.,The Impressionists has universities.,neutral,contradiction,neutral,possessed_definites_existence
+"If Wayne's spouse does leave the dancer, it's okay.",Wayne has a spouse.,entailment,entailment,entailment,possessed_definites_existence
+Susan's eggplant might have aggravated these universities.,Susan's eggplant did aggravate these universities.,neutral,contradiction,neutral,possessed_definites_existence
+"If Rose's bird did alarm Peter, it's okay.",Rose has a bird.,neutral,entailment,entailment,possessed_definites_existence
+Did Daniel's apples hurt Connie?,Daniel has apples.,entailment,entailment,entailment,possessed_definites_existence
+Rose's bird did alarm Peter.,Rose has a bird.,entailment,entailment,entailment,possessed_definites_existence
+Rose's ice did stun the children.,Lissa has ice.,neutral,contradiction,neutral,possessed_definites_existence
+Lisa's skirt might exist.,Lisa has a skirt.,entailment,entailment,neutral,possessed_definites_existence
+Did Lori's plumbers work hard?,Lori doesn't have plumbers.,contradiction,contradiction,contradiction,possessed_definites_existence
+Naomi's mountain might have shocked Sharon.,Lisa has a mountain.,neutral,contradiction,neutral,possessed_definites_existence
+This adult's government might ask Catherine to clean a lot of banks.,This adult's government does ask Catherine to clean a lot of banks.,neutral,contradiction,neutral,possessed_definites_existence
+Does Paul's doctor cook?,Paul has a doctor.,entailment,entailment,entailment,possessed_definites_existence
+Susan's eggplant might have aggravated these universities.,Jerry has a eggplant.,neutral,contradiction,neutral,possessed_definites_existence
+Linda's cars do hurt Leslie.,Bethany has cars.,neutral,contradiction,neutral,possessed_definites_existence
+"If the Impressionists' rugs did look like these prints, it's okay.",The Impressionists have rugs.,entailment,entailment,entailment,possessed_definites_existence
+Lawrence's teacher didn't reveal Robert.,Lawrence's teacher did reveal Robert.,contradiction,contradiction,contradiction,possessed_definites_existence
+"If Carmen's cousins did want this senator to stun Wendy, it's okay.",Carmen doesn't have cousins.,contradiction,contradiction,contradiction,possessed_definites_existence
+"If Scott's universities did retaliate, it's okay.",Scott has universities.,entailment,entailment,entailment,possessed_definites_existence
+Linda's cars do hurt Leslie.,Linda doesn't have cars.,contradiction,contradiction,contradiction,possessed_definites_existence
+"If Lisa's skirt does exist, it's okay.",This actress has a skirt.,neutral,entailment,neutral,possessed_definites_existence
+Does Suzanne's college campus bore Claire?,Elaine has a college campus.,neutral,contradiction,neutral,possessed_definites_existence
+Jennifer's car might have shocked Becky.,Phillip has a car.,neutral,contradiction,neutral,possessed_definites_existence
+Does Craig's ex-boyfriend pressure Gina's mother to study?,Craig's ex-boyfriend does pressure Gina's mother to study.,neutral,neutral,neutral,possessed_definites_existence
+Daniel's apples did hurt Connie.,Daniel has apples.,entailment,entailment,entailment,possessed_definites_existence
+"If this adult's government does ask Catherine to clean a lot of banks, it's okay.",This adult's government does ask Catherine to clean a lot of banks.,neutral,neutral,neutral,possessed_definites_existence
+"If Naomi's mountain did shock Sharon, it's okay.",Naomi has a mountain.,entailment,entailment,entailment,possessed_definites_existence
+"If Lori's plumbers did work hard, it's okay.",The person has plumbers.,neutral,entailment,neutral,possessed_definites_existence
+"If Jeffrey's grocery stores did disappear, it's okay.",Jeffrey has grocery stores.,entailment,entailment,entailment,possessed_definites_existence
+Caroline's rabbits didn't disgust Sharon.,Caroline has rabbits.,entailment,entailment,entailment,possessed_definites_existence
+"If Lori's plumbers did work hard, it's okay.",Lori's plumbers did work hard.,neutral,neutral,neutral,possessed_definites_existence
+Carmen's cousins did want this senator to stun Wendy.,Carmen has cousins.,entailment,entailment,entailment,possessed_definites_existence
+Susan's eggplant did aggravate these universities.,Susan doesn't have a eggplant.,contradiction,contradiction,contradiction,possessed_definites_existence
+Rose's bird might have alarmed Peter.,Rose doesn't have a bird.,contradiction,contradiction,contradiction,possessed_definites_existence
+"If Jennifer's car did shock Becky, it's okay.",Phillip has a car.,neutral,contradiction,neutral,possessed_definites_existence
+Naomi's mountain didn't shock Sharon.,Naomi doesn't have a mountain.,contradiction,contradiction,contradiction,possessed_definites_existence
+Lori's guest doesn't disgust the waitresses.,Lori has a guest.,entailment,entailment,entailment,possessed_definites_existence
+Lisa's skirt might exist.,Lisa's skirt does exist.,neutral,contradiction,neutral,possessed_definites_existence
+"If Rachelle's blouse does shrink, it's okay.",Tammy has a blouse.,neutral,contradiction,neutral,possessed_definites_existence
+Rose's bird did alarm Peter.,Rose has a bird.,neutral,entailment,entailment,possessed_definites_existence
+"If Brett's grandsons do realize who sits down, it's okay.",Brett has grandsons.,entailment,entailment,entailment,possessed_definites_existence
+Did Diana's story that hadn't disgusted Jill aggravate Mary?,Diana has exactly one story that hadn't disgusted Jill.,entailment,neutral,neutral,possessed_definites_uniqueness
+Raymond's blouse that is vanishing does annoy Christine.,Raymond has exactly one blouse that is vanishing.,entailment,neutral,neutral,possessed_definites_uniqueness
+Becca's horse that existed might have broken the plane.,Becca doesn't have exactly one horse that existed.,contradiction,neutral,neutral,possessed_definites_uniqueness
+"If Maria's photograph that hasn't hurt Tammy does alarm this museum, it's okay.",Maria has exactly one photograph that hasn't hurt Tammy.,entailment,contradiction,neutral,possessed_definites_uniqueness
+Julia's chair that embarrasses some boy didn't embarrass this library.,Julia has exactly one chair that embarrasses some boy.,entailment,neutral,neutral,possessed_definites_uniqueness
+David's box that wasn't disgusting Marie did look like those prints.,David has exactly one box that wasn't disgusting Marie.,entailment,neutral,neutral,possessed_definites_uniqueness
+"If Brian's popsicle that couldn't stun Karla does fall, it's okay.",Brian doesn't have exactly one popsicle that couldn't stun Karla.,contradiction,contradiction,neutral,possessed_definites_uniqueness
+Vincent's photograph that would astound Walter does fall.,Vincent doesn't have exactly one photograph that would astound Walter.,contradiction,contradiction,neutral,possessed_definites_uniqueness
+Sally's car that annoys Vincent does bore Tina.,These patients has exactly one car that annoys Vincent.,neutral,neutral,neutral,possessed_definites_uniqueness
+Brian's popsicle that couldn't stun Karla might fall.,Janice has exactly one popsicle that couldn't stun Karla.,neutral,contradiction,neutral,possessed_definites_uniqueness
+This cashier's cafe that isn't wasting away doesn't annoy James.,Melanie has exactly one cafe that isn't wasting away.,neutral,contradiction,neutral,possessed_definites_uniqueness
+"If those waitresses' shoe that hadn't annoyed the schools did disappear, it's okay.",Those waitresses have exactly one shoe that hadn't annoyed the schools.,entailment,neutral,neutral,possessed_definites_uniqueness
+Tiffany's chair that is scaring Samantha might have wasted away.,Tiffany's chair that is scaring Samantha did waste away.,neutral,contradiction,neutral,possessed_definites_uniqueness
+"If Vincent's photograph that would astound Walter does fall, it's okay.",Leslie has exactly one photograph that would astound Walter.,neutral,contradiction,neutral,possessed_definites_uniqueness
+Does Carmen's ladder that had confused many libraries look like prints?,Carmen has exactly one ladder that had confused many libraries.,entailment,neutral,neutral,possessed_definites_uniqueness
+Vincent's photograph that would astound Walter does fall.,Vincent has exactly one photograph that would astound Walter.,entailment,neutral,neutral,possessed_definites_uniqueness
+Jacqueline's bank that didn't cooperate did manage to benefit.,Rhonda has exactly one bank that didn't cooperate.,neutral,contradiction,neutral,possessed_definites_uniqueness
+Raymond's blouse that is vanishing might annoy Christine.,Raymond has exactly one blouse that is vanishing.,entailment,neutral,neutral,possessed_definites_uniqueness
+Did Craig's lake that isn't disappearing melt?,Craig doesn't have exactly one lake that isn't disappearing.,contradiction,contradiction,neutral,possessed_definites_uniqueness
+Diana's story that hadn't disgusted Jill might have aggravated Mary.,That dancer has exactly one story that hadn't disgusted Jill.,neutral,contradiction,neutral,possessed_definites_uniqueness
+Brian's skateboard that wasn't disgusting Allison might shock Sheila.,Brian's skateboard that wasn't disgusting Allison does shock Sheila.,neutral,contradiction,neutral,possessed_definites_uniqueness
+Does Carrie's spotlight that was scaring Barbara vanish?,Carrie has exactly one spotlight that was scaring Barbara.,entailment,neutral,neutral,possessed_definites_uniqueness
+Tiffany's chair that is scaring Samantha might have wasted away.,Maria has exactly one chair that is scaring Samantha.,neutral,contradiction,neutral,possessed_definites_uniqueness
+Gerald's banana that worries Pamela does blacken.,Those women has exactly one banana that worries Pamela.,neutral,contradiction,neutral,possessed_definites_uniqueness
+"If David's box that wasn't disgusting Marie did look like those prints, it's okay.",David has exactly one box that wasn't disgusting Marie.,entailment,contradiction,neutral,possessed_definites_uniqueness
+Anne's candle that had dimmed doesn't disturb Robert.,Anne's candle that had dimmed does disturb Robert.,contradiction,contradiction,contradiction,possessed_definites_uniqueness
+"If Michelle's cafe that was falling does irritate Alan, it's okay.",Michelle doesn't have exactly one cafe that was falling.,contradiction,contradiction,neutral,possessed_definites_uniqueness
+"If this cashier's cafe that isn't wasting away does annoy James, it's okay.",This cashier has exactly one cafe that isn't wasting away.,entailment,neutral,neutral,possessed_definites_uniqueness
+Gerald's banana that worries Pamela does blacken.,Gerald doesn't have exactly one banana that worries Pamela.,contradiction,contradiction,neutral,possessed_definites_uniqueness
+"If Raymond's blouse that is vanishing does annoy Christine, it's okay.",That actress has exactly one blouse that is vanishing.,neutral,contradiction,neutral,possessed_definites_uniqueness
+Did Homer's snake that embarrassed some legislature resemble the paintings?,Joel has exactly one snake that embarrassed some legislature.,neutral,contradiction,neutral,possessed_definites_uniqueness
+Winston Churchill's story that wasn't annoying many doctors might embarrass Julia.,Stacy has exactly one story that wasn't annoying many doctors.,neutral,contradiction,neutral,possessed_definites_uniqueness
+Does Curtis's coat that alarmed Claire aggravate Deborah?,Curtis's coat that alarmed Claire does aggravate Deborah.,neutral,neutral,neutral,possessed_definites_uniqueness
+Carmen's ladder that had confused many libraries does look like prints.,Carmen has exactly one ladder that had confused many libraries.,entailment,neutral,neutral,possessed_definites_uniqueness
+"If Brian's skateboard that wasn't disgusting Allison does shock Sheila, it's okay.",Brian's skateboard that wasn't disgusting Allison does shock Sheila.,neutral,entailment,neutral,possessed_definites_uniqueness
+"If Diana's story that hadn't disgusted Jill did aggravate Mary, it's okay.",Diana has exactly one story that hadn't disgusted Jill.,entailment,neutral,neutral,possessed_definites_uniqueness
+"If Craig's lake that isn't disappearing did melt, it's okay.",Homer has exactly one lake that isn't disappearing.,neutral,neutral,neutral,possessed_definites_uniqueness
+"If the patient's blouse that should unfold did wrinkle, it's okay.",The patient has exactly one blouse that should unfold.,entailment,neutral,neutral,possessed_definites_uniqueness
+Brian's popsicle that couldn't stun Karla doesn't fall.,Brian has exactly one popsicle that couldn't stun Karla.,entailment,neutral,neutral,possessed_definites_uniqueness
+"If Craig's lake that isn't disappearing did melt, it's okay.",Craig's lake that isn't disappearing did melt.,neutral,neutral,contradiction,possessed_definites_uniqueness
+Michelle's cafe that was falling does irritate Alan.,Michelle has exactly one cafe that was falling.,entailment,neutral,neutral,possessed_definites_uniqueness
+Tiffany's chair that is scaring Samantha did waste away.,Tiffany doesn't have exactly one chair that is scaring Samantha.,contradiction,contradiction,neutral,possessed_definites_uniqueness
+Vincent's photograph that would astound Walter might fall.,Vincent doesn't have exactly one photograph that would astound Walter.,contradiction,contradiction,neutral,possessed_definites_uniqueness
+"If Winston Churchill's story that wasn't annoying many doctors does embarrass Julia, it's okay.",Stacy has exactly one story that wasn't annoying many doctors.,neutral,contradiction,neutral,possessed_definites_uniqueness
+Diana's story that hadn't disgusted Jill didn't aggravate Mary.,Diana doesn't have exactly one story that hadn't disgusted Jill.,contradiction,contradiction,neutral,possessed_definites_uniqueness
+Carlos's painting that hasn't disappeared doesn't waste away.,Carlos has exactly one painting that hasn't disappeared.,entailment,neutral,neutral,possessed_definites_uniqueness
+Raymond's blouse that is vanishing might annoy Christine.,Raymond's blouse that is vanishing does annoy Christine.,neutral,contradiction,neutral,possessed_definites_uniqueness
+"If Adam's sweater that wasn't wasting away did appear, it's okay.",That waiter has exactly one sweater that wasn't wasting away.,neutral,contradiction,neutral,possessed_definites_uniqueness
+Vincent's photograph that would astound Walter does fall.,Leslie has exactly one photograph that would astound Walter.,neutral,contradiction,neutral,possessed_definites_uniqueness
+"If these drivers' gate that bored Christopher does exist, it's okay.",These drivers have exactly one gate that bored Christopher.,entailment,neutral,neutral,possessed_definites_uniqueness
+Did Gary realize why Kenneth does stun Jodi?,Kenneth does stun Jodi,entailment,entailment,neutral,question_presupposition
+Samuel does forget about when those doctors bake.,Those doctors bake,entailment,entailment,entailment,question_presupposition
+Senators might have been remembering when Carmen has ascertained Rachelle to escape from Monica.,Carmen hasn't ascertained Rachelle to escape from Monica.,contradiction,contradiction,contradiction,question_presupposition
+"If Stacy had remembered where Noah anticipated Kirsten to kiss Kimberley, it's okay.",Noah anticipated Kirsten to kiss Kimberley,entailment,entailment,entailment,question_presupposition
+Tina doesn't remember when Anne had bored Debra.,Anne had bored Debra,entailment,neutral,entailment,question_presupposition
+Organizations realize when the skateboard accelerated.,The skateboard accelerated,entailment,entailment,entailment,question_presupposition
+"If Samuel realized where Vincent has hurt those cashiers, it's okay.",Vincent hasn't hurt those cashiers.,contradiction,contradiction,contradiction,question_presupposition
+Naomi has forgotten how that museum swayed Carrie to mutter.,That museum didn't sway Carrie to mutter.,contradiction,contradiction,contradiction,question_presupposition
+Connie learned when bikes fall apart.,The glasses fall apart.,neutral,contradiction,neutral,question_presupposition
+Samuel might have realized where Vincent has hurt those cashiers.,Many cats has hurt those cashiers.,neutral,contradiction,neutral,question_presupposition
+Those libraries don't forget when Judy is asking the association to boast.,Danielle is asking the association to boast.,neutral,contradiction,neutral,question_presupposition
+"If these patients forget about how the Impressionists approve, it's okay.",The Impressionists approve,entailment,entailment,entailment,question_presupposition
+Sharon might reveal when Gina had encouraged Sonia's sons to divorce.,Sharon reveals when Gina had encouraged Sonia's sons to divorce.,neutral,neutral,neutral,question_presupposition
+"If Naomi has forgotten how that museum swayed Carrie to mutter, it's okay.",This dancer swayed Carrie to mutter.,neutral,contradiction,contradiction,question_presupposition
+Do committees remember when lakes vaporize?,Lakes vaporize,entailment,neutral,neutral,question_presupposition
+Naomi has forgotten how that museum swayed Carrie to mutter.,That museum swayed Carrie to mutter,entailment,entailment,entailment,question_presupposition
+Teachers conceal when Amy has come here.,The Borgias has come here.,neutral,contradiction,neutral,question_presupposition
+Samuel might forget about when those doctors bake.,Those doctors bake,entailment,entailment,entailment,question_presupposition
+Are the guys figuring out how women have figured out who won't chat?,Women haven't figured out who won't chat.,contradiction,contradiction,contradiction,question_presupposition
+Gary might have realized why Kenneth does stun Jodi.,Mirrors does stun Jodi.,neutral,contradiction,neutral,question_presupposition
+Museums might know when Donald neglects to hide that wheelbarrow.,Museums know when Donald neglects to hide that wheelbarrow.,neutral,entailment,neutral,question_presupposition
+Does Monet find out why the glove shrank?,The glove shrank,entailment,entailment,neutral,question_presupposition
+Sharon might reveal when Gina had encouraged Sonia's sons to divorce.,Actors had encouraged Sonia's sons to divorce.,neutral,contradiction,neutral,question_presupposition
+The girl knows why that screen slipped.,Every cup slipped.,neutral,contradiction,neutral,question_presupposition
+"If organizations realize when the skateboard accelerated, it's okay.",The skateboard accelerated,entailment,entailment,neutral,question_presupposition
+April didn't forget where that hat did twirl.,April forgot where that hat did twirl.,contradiction,contradiction,contradiction,question_presupposition
+"If the governments forget about why this legislature did forget about who prods Christina to worry Jerry, it's okay.",This legislature didn't forget about who prods Christina to worry Jerry.,contradiction,contradiction,contradiction,question_presupposition
+"If those libraries forget when Judy is asking the association to boast, it's okay.",Judy is asking the association to boast,entailment,entailment,neutral,question_presupposition
+The girl knows why that screen slipped.,That screen didn't slip.,contradiction,contradiction,contradiction,question_presupposition
+"If Samuel does forget about when those doctors bake, it's okay.",The boys bake.,neutral,contradiction,neutral,question_presupposition
+Did Bill wonder when Omar hunted?,The guy hunted.,neutral,entailment,entailment,question_presupposition
+Rebecca might have investigated how these windows shut.,Gates shut.,neutral,contradiction,neutral,question_presupposition
+Did the doctor wonder when these cashiers change?,The doctor does wonder when these cashiers change.,neutral,contradiction,neutral,question_presupposition
+Committees remember when lakes vaporize.,Lakes vaporize,entailment,entailment,entailment,question_presupposition
+"If museums know when Donald neglects to hide that wheelbarrow, it's okay.",Museums know when Donald neglects to hide that wheelbarrow.,neutral,entailment,neutral,question_presupposition
+"If Gary realized why Kenneth does stun Jodi, it's okay.",Kenneth does stun Jodi,entailment,entailment,neutral,question_presupposition
+"If the guys were figuring out how women have figured out who won't chat, it's okay.",This lady have figured out who won't chat.,neutral,entailment,neutral,question_presupposition
+"If Mark has figured out where Monet sells sweaters, it's okay.",Monet sells sweaters,entailment,entailment,entailment,question_presupposition
+Samuel didn't realize where Vincent has hurt those cashiers.,Vincent has hurt those cashiers,entailment,entailment,entailment,question_presupposition
+"If the guys were figuring out how women have figured out who won't chat, it's okay.",The guys were figuring out how women have figured out who won't chat.,neutral,entailment,neutral,question_presupposition
+The governments forget about why this legislature did forget about who prods Christina to worry Jerry.,This legislature did forget about who prods Christina to worry Jerry,entailment,entailment,entailment,question_presupposition
+Sharon reveals when Gina had encouraged Sonia's sons to divorce.,Gina hadn't encouraged Sonia's sons to divorce.,contradiction,contradiction,contradiction,question_presupposition
+Naomi might have forgotten how that museum swayed Carrie to mutter.,That museum didn't sway Carrie to mutter.,contradiction,contradiction,contradiction,question_presupposition
+"If Rebecca has investigated how these windows shut, it's okay.",Gates shut.,neutral,contradiction,neutral,question_presupposition
+Gary didn't realize why Kenneth does stun Jodi.,Kenneth doesn't stun Jodi.,contradiction,contradiction,contradiction,question_presupposition
+Russell wasn't wondering when the dancers chat.,The dancers chat,entailment,entailment,neutral,question_presupposition
+Samuel might forget about when those doctors bake.,Samuel does forget about when those doctors bake.,neutral,contradiction,neutral,question_presupposition
+"If those actresses did figure out how men do fight, it's okay.",A lot of hospitals do fight.,neutral,contradiction,neutral,question_presupposition
+Naomi has forgotten how that museum swayed Carrie to mutter.,This dancer swayed Carrie to mutter.,neutral,contradiction,neutral,question_presupposition
+"If Lisa has learned how the students wear those socks, it's okay.",The students wear those socks,entailment,entailment,neutral,question_presupposition
